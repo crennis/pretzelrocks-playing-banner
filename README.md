@@ -7,6 +7,6 @@ Pillow
 
 To install it simply use pip:
 
-pip install Pillow.
+pip install Pillow
 
 Also get Python from https://www.python.org/
