@@ -14,3 +14,6 @@ Also get Python from https://www.python.org/
 For it to work you also need Pretzel in the first place:
 https://Pretzel.Rocks/
 
+
+ToDo:
+-Transparent Banner if Paused
