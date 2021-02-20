@@ -17,3 +17,9 @@ https://Pretzel.Rocks/
 
 ToDo:
 -Transparent Banner if Paused
+
+
+
+____________________________________________________________________________________
+I am not affiliated with Pretzel.Rocks and don't own rights for their name and logo!
+Please Contact me for removal.
